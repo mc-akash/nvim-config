@@ -1,0 +1,1 @@
+/home/nu_scorpii/.config/omarchy/current/theme/neovim.lua
